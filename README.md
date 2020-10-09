@@ -1,6 +1,6 @@
 # ![nf-core/eager](docs/images/nf-core_eager_logo.png)
 
-**A fully reproducible ancient and modern DNA pipeline in Nextflow and with cloud support.**.
+**A fully reproducible ancient and modern DNA pipeline in Nextflow and with cloud support. Groovy!**.
 
 ![GitHub Actions CI Status](https://github.com/nf-core/eager/workflows/nf-core%20eager%20CI/badge.svg)
 ![GitHub Actions Linting Status](https://github.com/nf-core/eager/workflows/nf-core%20linting/badge.svg)
